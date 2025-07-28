@@ -58,7 +58,7 @@ After forcing a roll, the module automatically resets to "Off" mode to prevent a
 
 ## Compatibility
 
-- **Foundry VTT**: Version 10+ (Verified up to v11)
+- **Foundry VTT**: Version 12+ (Verified up to v12)
 - **Game Systems**: Universal - works with any game system that uses Foundry's standard dice rolling
 
 ## Technical Details
