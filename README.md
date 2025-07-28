@@ -10,12 +10,6 @@ As a Game Master, there are many situations where you might want to control dice
 - **Cinematic Encounters**: Create memorable moments by ensuring key NPCs succeed or fail at dramatically appropriate times
 - **Session Recovery**: Salvage a session when multiple bad rolls threaten to stall progress or create frustration
 
-**Example Scenarios:**
-- A player attempts to disarm a bomb with seconds left - force a success to maintain tension without ending the story
-- The villain's final monologue is interrupted by an attack - force a critical hit for maximum dramatic impact
-- A shy player finally attempts a social encounter - ensure their first big roleplay moment succeeds
-- Multiple failed investigation rolls are stalling the mystery - force the next success to keep the story moving
-
 ## Features
 
 - **Force Critical Success/Failure**: Toggle between forcing critical success, critical failure, or normal dice rolls
