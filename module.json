@@ -1,0 +1,17 @@
+{
+  "name": "force-next-dice",
+  "title": "Force Next Dice",
+  "description": "Allows the GM to force the next dice roll to be a critical success or failure.",
+  "version": "1.0.0",
+  "author": "Dylan Duault (vhan#6300)",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "scripts": ["main.js"],
+  "esmodules": [],
+  "languages": [],
+  "url": "https://github.com/dylan-duault/force-next-dice",
+  "manifest": "https://raw.githubusercontent.com/dylan-duault/force-next-dice/main/module.json",
+  "download": "https://github.com/dylan-duault/force-next-dice/archive/main.zip"
+}
