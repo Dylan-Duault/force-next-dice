@@ -22,14 +22,14 @@ As a Game Master, there are many situations where you might want to control dice
 
 ### Manual Installation
 1. Download the module files
-2. Extract to your Foundry `Data/modules/force-dice-rolls/` directory
+2. Extract to your Foundry `Data/modules/force-next-dice/` directory
 3. Restart Foundry VTT
 4. Enable the module in your world's module settings
 
 ### From Manifest URL
 Use this manifest URL in Foundry's module installer:
 ```
-https://raw.githubusercontent.com/dylan-duault/force-dice-rolls/main/module.json
+https://raw.githubusercontent.com/dylan-duault/force-next-dice/main/module.json
 ```
 
 ## Usage
@@ -75,4 +75,4 @@ This module is provided as-is for use with Foundry Virtual Tabletop.
 
 ## Support
 
-For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/dylan-duault/force-dice-rolls).
+For issues, feature requests, or contributions, please visit the [GitHub repository](https://github.com/dylan-duault/force-next-dice).
